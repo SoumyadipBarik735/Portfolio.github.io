@@ -6,7 +6,7 @@
 //     loop:true
 // });
 document.addEventListener("DOMContentLoaded", function () {
-    var typed = new typed(".Text", {
+    var typed = new Typed(".Text", {
         strings: ["Frontend Developer", "Web Developer", "Android Developer"],
         typeSpeed: 100,
         backSpeed: 100,
